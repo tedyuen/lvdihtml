@@ -1,0 +1,1 @@
+<footer class="footer text-center"> 2016 &copy; Pixel Admin brought to you by themedesigner.in </footer>
